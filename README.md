@@ -109,15 +109,11 @@ int main(void)
 }
 ```
 ## Output  :
-
 ### LED is ON:
  ![exp1 on](https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/180b1654-8af7-49d0-ab4a-afbebeb7bf08)
-
 ### LED is OFF:
  ![exp1 off](https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/b9fa5719-0b29-45f2-8744-a88f9632883e)
 
- 
- 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
