@@ -1,5 +1,8 @@
-# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
-
+```
+Name: E. Varsha Sharon
+Register Number: 212222100058
+```
+# Experiment 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
@@ -42,8 +45,8 @@ The main features of LPC2148 include the following.
 ![image](https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png)
 
 4.select the program name 
-![image](https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png)
 
+![image](https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png)
 
 5. corresponding ioc file will be generated automatically 
 ![image](https://user-images.githubusercontent.com/36288975/226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8.png)
@@ -51,7 +54,6 @@ The main features of LPC2148 include the following.
 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
 ![image](https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png)
 ![image](https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png)
-
 
 7.click on cntrl+S , automaticall C program will be generated 
 ![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
@@ -67,14 +69,8 @@ The main features of LPC2148 include the following.
 11. click on debug option 
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
 
-
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
-
-
-
-
-
 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -110,9 +106,11 @@ int main(void)
 ```
 ## Output  :
 ### LED is ON:
- ![exp1 on](https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/180b1654-8af7-49d0-ab4a-afbebeb7bf08)
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=450, height=450>
+
 ### LED is OFF:
- ![exp1 off](https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/b9fa5719-0b29-45f2-8744-a88f9632883e)
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/a46aa8b1-b491-41fb-ad92-ecba6d6d0188" width=450, height=450>
+
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
