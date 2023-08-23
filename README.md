@@ -103,7 +103,7 @@ int main(void)
 ```
 ## Output  :
 ### LED is ON:
-<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=450, height=450>
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=450, height=430>
 
 ### LED is OFF:
 <img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/a46aa8b1-b491-41fb-ad92-ecba6d6d0188" width=450, height=450>
