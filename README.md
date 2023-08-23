@@ -76,16 +76,13 @@ The main features of LPC2148 include the following.
 ```
 #include "main.h"
 void ledblink();
-
 void ledblink()
 {
 	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_SET);
 	HAL_Delay(1000);
 	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_5,GPIO_PIN_RESET);
 	HAL_Delay(500);
-
 }
-
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 
