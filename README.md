@@ -6,15 +6,15 @@ Register Number: 212222100058
 
 ## Aim: 
 To Interface a Digital output (LED) to ARM development board and write a blink code
-
-## Components required: 
+## Components required:
 STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
-
-## Theory:
+## Theory: 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
+
 What is an ARM7 Processor?
 ARM7 processor is commonly used in embedded system applications. Also, it is a balance among classic as well as new-Cortex sequence. This processor is tremendous in finding the resources existing on the internet with excellence documentation offered by NXP Semiconductors. It suits completely for an apprentice to obtain in detail hardware & software design implementation.
 LPC2148 Microcontroller
+
  The LPC2148 microcontroller is designed by Philips (NXP Semiconductor) with several in-built features & peripherals. Due to these reasons, it will make more reliable as well as the efficient option for an application developer. LPC2148 is a 16-bit or 32-bit microcontroller based on ARM7 family.
 Features of LPC2148
 The main features of LPC2148 include the following.
@@ -106,10 +106,10 @@ int main(void)
 ```
 ## Output  :
 ### LED is ON:
-<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=450, height=430>
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=450, height=450>
 
 ### LED is OFF:
-<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/a46aa8b1-b491-41fb-ad92-ecba6d6d0188" width=450, height=450>
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/a46aa8b1-b491-41fb-ad92-ecba6d6d0188" width=450, height=475>
 
 
 ## Result :
