@@ -15,7 +15,7 @@ What is an ARM7 Processor?
 ARM7 processor is commonly used in embedded system applications. Also, it is a balance among classic as well as new-Cortex sequence. This processor is tremendous in finding the resources existing on the internet with excellence documentation offered by NXP Semiconductors. It suits completely for an apprentice to obtain in detail hardware & software design implementation.
 LPC2148 Microcontroller
 
- The LPC2148 microcontroller is designed by Philips (NXP Semiconductor) with several in-built features & peripherals. Due to these reasons, it will make more reliable as well as the efficient option for an application developer. LPC2148 is a 16-bit or 32-bit microcontroller based on ARM7 family.
+The LPC2148 microcontroller is designed by Philips (NXP Semiconductor) with several in-built features & peripherals. Due to these reasons, it will make more reliable as well as the efficient option for an application developer. LPC2148 is a 16-bit or 32-bit microcontroller based on ARM7 family.
 Features of LPC2148
 The main features of LPC2148 include the following.
 •	The LPC2148 is a 16 bit or 32 bit ARM7 family based microcontroller and available in a small LQFP64 package.
@@ -106,10 +106,10 @@ int main(void)
 ```
 ## Output  :
 ### LED is ON:
-<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=450, height=450>
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/2f59805e-5284-48f9-a05b-3d38454a78a6" width=440, height=450>
 
 ### LED is OFF:
-<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/a46aa8b1-b491-41fb-ad92-ecba6d6d0188" width=450, height=475>
+<img src="https://github.com/varshasharon/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/98278161/a46aa8b1-b491-41fb-ad92-ecba6d6d0188" width=440, height=475>
 
 
 ## Result :
