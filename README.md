@@ -2,9 +2,11 @@
 Name: E. Varsha Sharon
 Register Number: 212222100058
 ```
-# Experiment 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
-## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
-## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
+# Experiment-01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
+## Aim: 
+To Interface a Digital output (LED) to ARM development board and write a blink code 
+## Components required: 
+STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 What is an ARM7 Processor?
